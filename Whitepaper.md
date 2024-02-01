@@ -57,3 +57,52 @@ La ciencia de datos es un campo en rápido crecimiento y hay una demanda crecien
 La tecnología blockchain está revolucionando una variedad de campos, desde el arte digital hasta la educación. En "Data Science Xtreme", enseñamos a nuestros estudiantes cómo funciona la tecnología blockchain y cómo puede ser utilizada para rastrear y comercializar cualquier cosa de valor. Nuestros graduados estarán preparados para aprovechar las oportunidades que ofrece la tecnología blockchain, desde la creación de NFTs hasta la mejora de la seguridad de las transacciones.
 
 ---
+# Desarrolladores de Software
+
+En "Data Science Xtreme", reconocemos que el desarrollo de software es una habilidad esencial en el mundo de la tecnología. Nuestro programa prepara a los estudiantes en lenguajes de programación demandados como Java, .Net y Python, equipándolos con las habilidades necesarias para desarrollar software de alta calidad.
+
+---
+
+# Ingenieros DevOps
+
+Nuestro programa también se centra en la formación de ingenieros DevOps. Estos profesionales son esenciales para unir a las personas, los procesos y las tecnologías para ofrecer valor a los clientes de forma constante. Nuestros graduados estarán equipados para responder mejor a las necesidades de los clientes, aumentar la confianza en las aplicaciones que crean y alcanzar los objetivos empresariales en menos tiempo.
+
+---
+
+# Crecimiento y Proyecciones
+
+Según datos de la International Data Corporation (IDC), esperamos un crecimiento del 9.4% en 2022, 12% en 2023 y una proyección del 25% en 2024 en el sector tecnológico en nuestra región. Creemos que el futuro económico de los países de nuestra región estará indudablemente más ligado al crecimiento y las oportunidades que presenta la industria tecnológica.
+
+---
+
+# Metaversos y Startups
+
+Reconocemos el crecimiento de los metaversos y las startups como indicadores del contexto actual del sector tecnológico. Nuestro proyecto busca capitalizar estas tendencias y preparar a nuestros estudiantes para aprovechar las oportunidades que ofrecen.
+
+---
+
+# Resultados Tangibles
+
+Nuestro proyecto no solo prepara a los profesionales en estos campos, sino que también demuestra en la práctica que la implementación funciona y que se pueden obtener buenos, excelentes y legítimos resultados tangibles.
+
+---
+
+# Token DSX
+
+Como parte de nuestro proyecto, implementaremos el token DSX. Este token permitirá la monetización del proyecto y proporcionará una forma para que los estudiantes financien su educación y reembolsen la inversión una vez que estén trabajando en el mundo IT.
+
+La cantidad total de tokens DSX será de 100,000,000. Estos tokens se distribuirán de la siguiente manera:
+
+- **Retorno o pago de los estudiantes**: Una porción de los tokens se reservará para el retorno o pago de los estudiantes.
+- **Inversores y profit**: Otra porción de los tokens se reservará para los inversores y el profit.
+- **Stacking**: También habrá una porción de los tokens reservada para el stacking.
+- **Becas**: Una porción de los tokens se utilizará para financiar becas.
+- **Piscinas de liquidez**: Habrá varias piscinas de liquidez.
+- **Inversión en el proyecto**: El 25% anual de los tokens se utilizará para la inversión en el proyecto, la modernización de equipos y los sueldos para docentes y profesionales.
+- **Gastos de viajes, representación, conferencia anual**: El 20% de los tokens se utilizará para estos propósitos.
+- **Hackathons**: El 10% de los tokens se utilizará para desarrollar anualmente 2 hackathons con premios, uno para estudiantes y otro para profesionales egresados de nuestro bootcamp.
+- **Piscina para estabilidad del token**: Habrá una piscina para la estabilidad del token.
+
+Esperamos que la implementación del token DSX permita la autogestión y la autosustentación del proyecto, y proporcione una oportunidad de inversión para aquellos con visión y compromiso.
+
+---
