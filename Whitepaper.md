@@ -106,3 +106,24 @@ La cantidad total de tokens DSX será de 100,000,000. Estos tokens se distribuir
 Esperamos que la implementación del token DSX permita la autogestión y la autosustentación del proyecto, y proporcione una oportunidad de inversión para aquellos con visión y compromiso.
 
 ---
+# NFTs y Tokenización de la Educación
+
+En "Data Science Xtreme", estamos llevando la innovación un paso más allá al incorporar NFTs (Tokens No Fungibles) en nuestro modelo educativo. Cada estudiante tendrá su propio NFT único, que representará su perfil y estará basado en su desempeño y CV.
+
+Estos NFTs son propiedad de "Data Science Xtreme" y se pondrán a la venta por solo el 25% del costo de la educación del estudiante. Una vez que el estudiante se gradúa y comienza a trabajar, el valor del NFT se triplicará. Gracias al retorno de la inversión del estudiante, comenzará el retorno en cuotas mensuales hasta el retorno del capital del inversor en la educación estudiantil. Una vez retornado el dinero al inversor, el NFT pasará nuevamente a ser propiedad de "Data Science Xtreme" para su quema.
+
+Además, habrá NFTs especiales o con emisiones especiales para su venta en el marketplace de "Data Science Xtreme". Estos NFTs representarán una oportunidad única para los inversores y ayudarán a financiar nuestro proyecto.
+
+---
+
+# Conclusión
+
+"Data Science Xtreme" es más que un simple bootcamp de tecnología. Es un proyecto innovador que busca transformar la educación tecnológica en Latinoamérica y abrir nuevas oportunidades para los profesionales en la región.
+
+Nuestro enfoque en áreas de alta demanda como Full Stack, Data Science, Gerencia DevOps y Blockchain, junto con nuestro innovador sistema de financiamiento basado en tokens y NFTs, nos permite proporcionar una formación de alta calidad de manera accesible y asequible.
+
+Creemos que nuestro proyecto no solo ayudará a cerrar la brecha en la educación tecnológica en Latinoamérica, sino que también abrirá nuevas oportunidades para los profesionales en la región y proporcionará una oportunidad de inversión para aquellos con visión y compromiso.
+
+Esperamos que "Data Science Xtreme" sea un catalizador para el crecimiento y las oportunidades en la industria tecnológica en Latinoamérica.
+
+---
