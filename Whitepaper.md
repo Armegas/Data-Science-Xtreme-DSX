@@ -39,3 +39,21 @@ La demanda de profesionales capacitados en tecnologías emergentes está crecien
 Nuestro proyecto busca abordar estas necesidades proporcionando una formación de alta calidad en computación de manera accesible y asequible. Al hacerlo, esperamos ayudar a cerrar la brecha en la educación tecnológica en la región y abrir nuevas oportunidades para los profesionales en Latinoamérica.
 
 ---
+
+# Gerentes de Proyectos Tecnológicos
+
+En "Data Science Xtreme", reconocemos la importancia de la gestión de proyectos tecnológicos. Nuestro programa se centra en formar líderes que puedan supervisar y planificar sistemas de TI, asegurando que todos los sistemas funcionen de manera segura y eficiente. Nuestros gerentes de proyectos estarán equipados para supervisar sistemas de TI, ordenadores y redes en todos los departamentos, supervisar al personal técnico y planificar nuevos sistemas a medida que la empresa crece.
+
+---
+
+# Especialistas en Datos
+
+La ciencia de datos es un campo en rápido crecimiento y hay una demanda creciente de especialistas en datos. En "Data Science Xtreme", preparamos a nuestros estudiantes para convertirse en científicos de datos y especialistas en algoritmos. Nuestros graduados estarán equipados para ayudar a las organizaciones a estructurar las diferentes fuentes de datos que tienen y a desarrollar estrategias basadas en estos datos.
+
+---
+
+# Blockchain
+
+La tecnología blockchain está revolucionando una variedad de campos, desde el arte digital hasta la educación. En "Data Science Xtreme", enseñamos a nuestros estudiantes cómo funciona la tecnología blockchain y cómo puede ser utilizada para rastrear y comercializar cualquier cosa de valor. Nuestros graduados estarán preparados para aprovechar las oportunidades que ofrece la tecnología blockchain, desde la creación de NFTs hasta la mejora de la seguridad de las transacciones.
+
+---
