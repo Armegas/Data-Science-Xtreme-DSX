@@ -22,3 +22,20 @@ Lo que distingue a "Data Science Xtreme" de otros bootcamps o programas de capac
 
 ---
 
+# Computing
+
+En "Data Science Xtreme", entendemos que la computación es una de las principales tecnologías emergentes que se están utilizando en América Latina y en todo el mundo. Nuestro objetivo es llevar la computación al extremo, preparando a nuestros estudiantes para dominar las habilidades y técnicas más avanzadas en este campo.
+
+## Llevando la Computación al Extremo
+
+Nuestro enfoque en la computación va más allá de la enseñanza de habilidades básicas de programación. Nos enfocamos en áreas de alta demanda como Full Stack, Data Science, Gerencia DevOps y Blockchain, y proporcionamos a nuestros estudiantes una formación intensiva en estas áreas. Además, incorporamos las últimas tendencias y tecnologías en nuestro currículo, asegurándonos de que nuestros estudiantes estén a la vanguardia de la industria.
+
+Además, nuestro proyecto incorpora un innovador sistema de financiamiento basado en tokens. Este sistema no solo facilita el acceso a la educación tecnológica, sino que también permite a los estudiantes participar activamente en la economía digital y comprender cómo funcionan las tecnologías blockchain y los tokens.
+
+## Relación con las Necesidades Actuales en América Latina
+
+La demanda de profesionales capacitados en tecnologías emergentes está creciendo rápidamente en América Latina. Sin embargo, muchas personas en la región enfrentan barreras para acceder a la educación en tecnología, como costos elevados y falta de programas de formación de calidad.
+
+Nuestro proyecto busca abordar estas necesidades proporcionando una formación de alta calidad en computación de manera accesible y asequible. Al hacerlo, esperamos ayudar a cerrar la brecha en la educación tecnológica en la región y abrir nuevas oportunidades para los profesionales en Latinoamérica.
+
+---
