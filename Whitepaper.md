@@ -97,6 +97,7 @@ La cantidad total de tokens DSX será de 100,000,000. Estos tokens se distribuir
 - **Inversores y profit**: Otra porción de los tokens se reservará para los inversores y el profit.
 - **Stacking**: También habrá una porción de los tokens reservada para el stacking.
 - **Becas**: Una porción de los tokens se utilizará para financiar becas.
+- **Financiamiento de Startups**: También habrá una porción de los tokens reservada para el financiamiento de Startups y proyectos de nuestros egresados.
 - **Piscinas de liquidez**: Habrá varias piscinas de liquidez.
 - **Inversión en el proyecto**: El 25% anual de los tokens se utilizará para la inversión en el proyecto, la modernización de equipos y los sueldos para docentes y profesionales.
 - **Gastos de viajes, representación, conferencia anual**: El 20% de los tokens se utilizará para estos propósitos.
