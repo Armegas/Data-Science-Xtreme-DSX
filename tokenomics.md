@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1L8O_qpGU_zDmCsZTKL3g67QYpZR4funJ/view?usp=sharing" alt=“logo de GitHub” width=“100”/>
+<img src="https://drive.google.com/file/d/1uM5nOjxga9uE4LXQpR5JzhZRb6e-mcOv/view?usp=sharing" alt=“logo de GitHub” width=“100”/>
   
 ## **El token DSX es un token ERC-20 que se ejecuta en la red Ethereum. Su función principal es permitir la monetización del proyecto educativo que lo respalda, así como proporcionar una forma para que los estudiantes financien su educación y reembolsen la inversión una vez que estén trabajando en el mundo IT.**
 
