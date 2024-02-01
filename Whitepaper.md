@@ -1,4 +1,11 @@
-# ***"white paper":***
+<p align="center">
+<img src="https://github.com/Armegas/Data-Science-Xtreme-DSX/blob/main/DSX_U.png?raw=true"  height=500>
+  
+</p>
+
+
+
+# ***white paper:***
 
 # Introducción
 
